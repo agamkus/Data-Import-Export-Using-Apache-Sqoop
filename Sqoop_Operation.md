@@ -1,4 +1,4 @@
-# Data-Import-Export-Using-Apache-Sqoop
+# <h1 align="center">Data-Import-Export-Using-Apache-Sqoop</h1>
 
 ## Problem Statement:
 Apache Sqoop, which is short for ‘SQL to Hadoop’, is used for ingesting relational data. Essentially, it connects an RDBMS, such as MySQL and Oracle, to the HDFS and provides efficient, bidirectional data transfer between them in parallel, as shown in the image given below.
